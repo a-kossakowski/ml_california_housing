@@ -70,7 +70,7 @@ I hope this analysis provides a useful reference for anyone interested in housin
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/california-housing-analysis.git
+   git clone https://github.com/a-kossakowski/ml_california_housing
    
 2. **Navigate to the Project Directory**
    ```bash
