@@ -72,7 +72,7 @@ I hope this analysis provides a useful reference for anyone interested in housin
    ```bash
    git clone https://github.com/a-kossakowski/ml_california_housing
    
-2. **Navigate to the Project Directory**
+2. **Navigate to the Project Directory:**
    ```bash
    cd ml_california_housing
    
