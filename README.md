@@ -74,7 +74,7 @@ I hope this analysis provides a useful reference for anyone interested in housin
    
 2. **Navigate to the Project Directory**
    ```bash
-   cd california-housing-analysis
+   cd ml_california_housing
    
 3. **Install the Required Libraries:**
    ```bash
