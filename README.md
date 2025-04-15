@@ -31,7 +31,7 @@ The story behind this dataset is one of complexity and nuance. Despite being cle
 I started by loading the dataset using scikit-learn and converting it into a Pandas DataFrame. Here are some key details:
 - **Observations:** 20,640 entries
 - **Features:** 8 features (MedInc, HouseAge, AveRooms, AveBedrms, Population, AveOccup, Latitude, Longitude)
-- **Target:** Price (with a known cap at 5.0)
+- **Target:** Price (with a known cap at >= 5.0)
 
 I checked for missing values and computed summary statistics to understand the distribution and range of each feature.
 
