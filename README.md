@@ -85,3 +85,6 @@ I hope this analysis provides a useful reference for anyone interested in housin
    jupyter notebook ml_california_housing.ipynb
 
 
+# License
+
+Please refer to [LICENSE](LICENSE.md) file.
